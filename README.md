@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eigenvectr or Edward!
+- 👋 Hi, I’m @eigenvectr!
 
 <!---
 eigenvectr/eigenvectr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
